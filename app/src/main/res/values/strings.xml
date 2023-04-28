@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TimePrj</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="set_time">SET TIME</string>
+    <string name="next_med">Next medicine to take</string>
+    <string name="set_today">Today</string>
+    <string name="set_tomorrow">Tomorrow</string>
+    <string name="set_after_tomorrow">After tomorrow</string>
+    <string name="set_format">__:__</string>
+    <string name="unknown_day">Unknown day</string>
+    <string name="set_right_time">Set right format</string>
+    <string name="every_day">Every day</string>
+    <string name="day_after">Every second</string>
+    <string name="delete_button">Delete</string>
+    <string name="send_button">Send</string>
+</resources>
